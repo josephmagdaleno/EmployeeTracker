@@ -8,7 +8,10 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Description
 
-An app to manage a companies employees
+An app to manage a companies employees. This program uses Node, inquirer, and Mysql.
+One aspect of this program allows you to View all Employees, Roles, and Departments.
+Another aspect is that it allows you to add into any of the viewable databases. You can add new employees, new roles, and new departments all withing the aplication.
+The final working part of this aplication is you are able to edit any the employees in the database.
 
 ## Table of Contents 
 
@@ -34,7 +37,9 @@ npm i
 
 ## Usage
 
-N/A
+require Mysql
+require Inquirer
+require Node
 
 
   
